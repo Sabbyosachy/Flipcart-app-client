@@ -1,0 +1,12 @@
+.sublogo{
+    transition: 0.6s;
+}
+.sublogo:hover{
+text-decoration: underline;
+cursor: pointer;
+}
+.bars{
+    height: 50px;
+    display: flex;
+    justify-content: center;
+}
